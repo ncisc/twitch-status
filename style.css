@@ -1,0 +1,41 @@
+body {
+  background-color: orange;
+}
+.container {
+  width: 700px;
+  margin: 50px auto;
+  background-color: snow;
+  border-radius: 5px;
+  padding: 10px;
+}
+#title {
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+}
+#menu {
+  width: 350px;
+  margin: 20px auto;
+}
+#streamers {
+  margin: 10px;
+  padding: 5px 20px;
+}
+.stream {
+  padding: 6px 0 0 ;
+  margin: 5px 0;
+  border-radius: 5px;
+  background-color: lightcoral;
+  color: white;
+}
+.online {
+  background-color: lightsteelblue;
+  color: darkslategray;
+}
+.stream a {
+  text-decoration: none;
+  color: inherit;
+}
+.name, .description {
+  padding: 3px 0 0 0;
+}
